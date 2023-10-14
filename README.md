@@ -40,6 +40,10 @@ the topmost node is the document node here and is the root node of the DOM tree 
 
 which we access to DOM and manipulate all the content <br>
 
+now this document node has one child node which is HTML <br>
+
+
+
 
 
 
