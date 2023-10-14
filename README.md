@@ -38,6 +38,8 @@ most of the node in the above diagram have praent child relationship <br>
 the topmost node is the document node here and is the root node of the DOM tree <br>
 
 
+which we access to DOM and manipulate all the content <br>
+
 
 
 
