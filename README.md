@@ -27,6 +27,10 @@ like the above <br>
 
 DOM object is actually property of window object <br>
 
+which is a global top level object <br>
+
+
+
 
 
 
