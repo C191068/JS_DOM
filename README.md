@@ -58,6 +58,9 @@ paragraph and h1 are siblings to each other <br>
 
 text content s inside each of these elemts are child node <br>
 
+to the paragraph and h1 <br>
+
+
 
 
 
