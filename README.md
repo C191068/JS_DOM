@@ -56,6 +56,10 @@ body element is the parent of paragraph and h1 <br>
 paragraph and h1 are siblings to each other <br>
 
 
+text content s inside each of these elemts are child node <br>
+
+
+
 
 
 
