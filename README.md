@@ -109,6 +109,40 @@ when we type the above code <br>
 
 we get the above output in browser <br>
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/e7af48c5-f815-4e2f-ad1a-d540ba9cfaff)
+
+if we hover over this it is highlighted in the browser <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
