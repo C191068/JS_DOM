@@ -94,6 +94,19 @@ by using the method GetElementId we can select an element by it's unique id <br>
 
 this is the esaiest way to find an html elemnt inside the dom tree <br>
 
+we know from css the id attribute is ussed for something unique <br>
+
+![d1](https://github.com/C191068/JS_DOM/assets/89090776/7584b65a-b156-4814-8b48-43b665c3fca6)
+
+here id of h1 is main heading <br>
+
+
+
+
+
+
+
+
 
 
 ```
