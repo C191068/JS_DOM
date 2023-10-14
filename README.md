@@ -146,6 +146,9 @@ it accepts a tag and return all element of that specified tag <br>
 it returns an array of object for all child element with the given tag name <br>
 
 
+![d6](https://github.com/C191068/JS_DOM/assets/89090776/29976af8-c92d-40be-af31-ab0013a0cfd7)
+
+we get the above output which is similiar to getelementbyclassname <br>
 
 
 
