@@ -53,6 +53,8 @@ underneath the head elmt is what is the title element <br>
 
 body element is the parent of paragraph and h1 <br>
 
+paragraph and h1 are siblings to each other <br>
+
 
 
 
