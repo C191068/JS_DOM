@@ -263,6 +263,26 @@ again because this is dob=ne through inline styling <br>
 
 if it is applied to all list items it will not work <br>
 
+why we are using style property because css properties are written in camel case <br>
+
+not with standard snake case <br>
+
+![d15](https://github.com/C191068/JS_DOM/assets/89090776/361d2440-2b3e-4363-a2c8-28cdd91097e6)
+
+if we try to apply inline css to list <br>
+
+![d16](https://github.com/C191068/JS_DOM/assets/89090776/22952e00-4f6b-4f1d-9ba0-b91173aef2f5)
+
+we get the above error <br>
+
+
+
+
+
+
+
+
+
 
 
 
