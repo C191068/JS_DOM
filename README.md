@@ -261,6 +261,8 @@ now if we look at the console it is actually included style attribute <br>
 
 again because this is dob=ne through inline styling <br>
 
+if it is applied to all list items it will not work <br>
+
 
 
 
