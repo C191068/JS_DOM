@@ -254,7 +254,12 @@ this type of styling is called inline styling <br>
 
 this is probably the direct method <br>
 
+![d14](https://github.com/C191068/JS_DOM/assets/89090776/a1094f14-7289-4cad-a0a7-b7d654e3934c)
+
+
 now if we look at the console it is actually included style attribute <br>
+
+again because this is dob=ne through inline styling <br>
 
 
 
