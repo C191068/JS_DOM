@@ -101,6 +101,11 @@ we know from css the id attribute is ussed for something unique <br>
 here id of h1 is main heading <br>
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/5e2d7006-492d-4ed4-8221-d645ec7aa118)
+
+change browser in vs code <br>
+
+https://stackoverflow.com/questions/49289233/how-to-change-default-browser-with-vs-codes-open-with-live-server
 
 
 
