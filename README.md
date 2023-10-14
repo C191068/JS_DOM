@@ -133,6 +133,11 @@ now this method returns an array of object of all the child elements <br>
 
 which have all the given class names <br>
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/01521349-a309-4d53-8bf1-31578ff1c837)
+
+we can see they are index and in order in html file <br>
+
+
 
 
 
