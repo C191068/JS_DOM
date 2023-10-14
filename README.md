@@ -169,6 +169,9 @@ so we can actually use this method any element in our html file
 
 here we have the div tag <br>
 
+![d8](https://github.com/C191068/JS_DOM/assets/89090776/bf5fe419-c914-480b-b7f5-1bc0ff851cb7)
+
+for that we get the above output <br>
 
 
 
