@@ -140,6 +140,8 @@ we can see they are index and in order in html file <br>
 
 here getelementbytagname is similiar to getelementbyclassname <br>
 
+it accepts a tag and return all element of that specified tag <br>
+
 
 
 
