@@ -123,7 +123,10 @@ specified class name <br>
 
 ![d3](https://github.com/C191068/JS_DOM/assets/89090776/83d8b01a-6e9c-4761-ae76-9388f613d25b)
 
-here we cans in all of our list items with class name list item <br>
+here we can see in all of our list items with class name list item <br>
+
+![d4](https://github.com/C191068/JS_DOM/assets/89090776/cd6fd88d-9012-405d-b100-a58c7cdb1f42)
+thus we can get the above output <br>
 
 
 
