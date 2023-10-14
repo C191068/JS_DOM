@@ -29,6 +29,7 @@ DOM object is actually property of window object <br>
 
 which is a global top level object reperesenting a tab in the browser <br>
 
+and this window object has access to information such as toolbars <br>
 
 
 
