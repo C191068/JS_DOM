@@ -201,6 +201,12 @@ we can access css properties in javasxcript <br>
 
 so first we will select main heading <br>
 
+which is the title of the container <br>
+
+and so we gonna put that in a variable <br>
+
+
+
 
 
 
@@ -267,6 +273,39 @@ https://stackoverflow.com/questions/49289233/how-to-change-default-browser-with-
 
 ```
 
+
+<br>
+
+
+```
+
+//GetElementId
+
+//const title = document.getElementById("main-heading");
+//console.log(title);
+
+//GetElementbyclassname
+
+//const listItem = document.getElementsByClassName("list-items");
+//console.log(listItem);
+
+//getelementbytagname
+
+//const listItem = document.getElementsByTagName("li");
+//console.log(listItem);
+
+//queryselector
+
+//const container = document.querySelector("div");
+//console.log(container);
+
+//queryselectorAll
+
+const container = document.querySelectorAll("div");
+console.log(container);
+
+
+```
 
 
 
