@@ -138,6 +138,8 @@ which have all the given class names <br>
 we can see they are index and in order in html file <br>
 
 
+here getelementbytagname is similiar to getelementbyclassname <br>
+
 
 
 
