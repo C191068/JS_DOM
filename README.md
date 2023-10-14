@@ -96,6 +96,34 @@ this is the esaiest way to find an html elemnt inside the dom tree <br>
 
 
 
+```
+
+<html>
+  <head>
+    <meta http-equiv="X-UA-Compatible"
+    content="IE=edge">
+    <meta name="viewport"
+    content="width=device-width, initial scale=1.0">
+    <title>Movies</title>
+  </head>
+
+  <body>
+    <div class="container">
+      <h1 id="main-heading">My favorite movies</h1>
+      <ul>
+        <li class="list-items">The Message</li>
+        <li class="list-items">Lion of the Desert</li>
+        <li class="list-items">The Kingdom of Heaven</li>
+      </ul>
+    </div>
+    <script src="kapp.js"></script>
+  </body>
+</html>
+
+
+```
+
+
 
 
 
