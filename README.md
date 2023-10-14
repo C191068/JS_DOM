@@ -80,6 +80,9 @@ the way they are accessed is through the properrties of the element nodes <br>
 that they contained in <br>
 
 the way they are accessed is through the properties of the element node <br>
+ understing this parent child relationship is crucial to understanding <br>
+
+how javascript works with html <br>
 
 
 
