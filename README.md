@@ -227,6 +227,10 @@ and change it around using css properties <br>
 
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/bda303f4-48e5-4dfe-8840-dddaab9401c9)
+
+
+
 so to access css properties in javascript we just first grab the variable <br>
 
 we want to apply styling to <br>
@@ -238,6 +242,12 @@ and after this style property we just use any css property <br>
 you want to apply to this element <br>
 
 and change the color of text <br>
+
+
+
+![d13](https://github.com/C191068/JS_DOM/assets/89090776/4c2fb0ae-da06-4005-a2c8-eccc90ee21ee)
+
+so we can see the colior is changed to red <br>
 
 
 
