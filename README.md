@@ -1,4 +1,4 @@
-# Intro
+# Intro(leaning fro freecodecamp)
 
 DOM stands for Document object module <br>
 
@@ -32,6 +32,8 @@ which is a global top level object reperesenting a tab in the browser <br>
 and this window object has access to information such as toolbars <br>
 
 height and width of the window <br>
+
+most of the node 
 
 
 
