@@ -279,8 +279,14 @@ we get the above error <br>
 if we want to apply style to list items we need to loop through all list items first <br>
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/58b7bc44-a565-4626-aa18-000f9f07a991)
+
+like above 
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/0befd26a-ded0-48c3-be4d-11a14082a0a5)
+
+output
 
 
 
