@@ -47,6 +47,10 @@ nad html is the parent to head and body element <br>
 
 now head and body elemts what we called is sibling <br>
 
+since they rae on the same level of the DOM tree <br>
+
+
+
 
 
 
