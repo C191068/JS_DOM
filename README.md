@@ -199,6 +199,8 @@ now we will add styling to the elements <br>
 
 we can access css properties in javasxcript <br>
 
+so first we will select main heading <br>
+
 
 
 
