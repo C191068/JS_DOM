@@ -92,6 +92,8 @@ there are five major ways of selecting element <br>
 by using the method GetElementId we can select an element by it's unique id <br>
 
 
+this is the esaiest way to find an html elemnt inside the dom tree <br>
+
 
 
 
