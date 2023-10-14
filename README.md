@@ -128,6 +128,8 @@ here we can see in all of our list items with class name list item <br>
 ![d4](https://github.com/C191068/JS_DOM/assets/89090776/cd6fd88d-9012-405d-b100-a58c7cdb1f42)
 thus we can get the above output <br>
 
+now this method returns an array of object of all the child elements <br>
+
 
 
 
