@@ -73,6 +73,14 @@ styles etc are also considers node in the dom hierarchy <br>
 
 but they actually don't participate in parent child sibling relationship <br>
 
+like othernodes do <br>
+
+the way they are accessed is through the properrties of the element nodes <br>
+
+that they contained in <br>
+
+the way they are accessed is through the properties of the element node <br>
+
 
 
 
