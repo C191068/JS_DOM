@@ -151,7 +151,19 @@ it returns an array of object for all child element with the given tag name <br>
 we get the above output which is similiar to getelementbyclassname <br>
 
 
+the query selected method is used to select one item <br>
 
+or first item that matches the selector <br>
+
+so if we have multiple items with the same class name or with the same id <br>
+
+or even the same tag it will select the first one it come across <br>
+
+so the beauty of this method as you probably just guessed is <br>
+that it can accept all css style selectors again allowing <br>
+it is selected by tag or it's class or even it's id <br>
+
+so we can actually use this method any element in our html file 
 
 
 
