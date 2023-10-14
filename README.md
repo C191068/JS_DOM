@@ -195,6 +195,8 @@ in getbytagname and getbyclassname where we get html collection <br>
 here we get node list <br>
 
 
+now we will add styling to the elements <br>
+
 
 
 
