@@ -250,6 +250,8 @@ and change the color of text <br>
 so we can see the colior is changed to red <br>
 
 
+this type of styling is called inline styling <br>
+
 
 
 
