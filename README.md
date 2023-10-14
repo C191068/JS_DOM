@@ -85,6 +85,14 @@ the way they are accessed is through the properties of the element node <br>
 how javascript works with html <br>
 
 
+in order to first select an element in the dom tree we have to first select the element <br>
+
+there are five major ways of selecting element <br>
+
+by using the method GetElementId we can select an element by it's unique id <br>
+
+
+
 
 
 
