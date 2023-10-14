@@ -165,6 +165,12 @@ it is selected by tag or it's class or even it's id <br>
 
 so we can actually use this method any element in our html file 
 
+![d7](https://github.com/C191068/JS_DOM/assets/89090776/1ed22bac-00ea-4cba-b400-d4ad7ad376c7)
+
+here we have the div tag <br>
+
+
+
 
 
 
