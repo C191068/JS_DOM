@@ -191,6 +191,8 @@ for below more than one div <br>
 
 we get the above output <br>
 
+in getbytagname and getbyclassname where we get html collection <br>
+here we get node list <br>
 
 
 
