@@ -113,7 +113,9 @@ we get the above output in browser <br>
 
 if we hover over this it is highlighted in the browser <br>
 
-
+here we have selected that element and now we can do is select that <br>
+variable we just created for the element and we can add styles to the element <br>
+manipulate it attributes 
 
 
 
