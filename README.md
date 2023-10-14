@@ -178,6 +178,23 @@ for that we get the above output <br>
 if we have more than one div and if we want to select them all we <br>
 use queyselectorall <br>
 
+![d10](https://github.com/C191068/JS_DOM/assets/89090776/51c1199c-0e2d-4cfb-b64d-5aa1ce1b7bb1)
+
+for that we use the above code for below more than one div 
+
+
+![image](https://github.com/C191068/JS_DOM/assets/89090776/222caad6-cb0a-49f3-8905-fc8baf660010)
+
+for below more than one div <br>
+
+![image](https://github.com/C191068/JS_DOM/assets/89090776/af52a5c4-c43c-42da-b6c0-0cab85f15353)
+
+we get the above output <br>
+
+
+
+
+
 
 
 
