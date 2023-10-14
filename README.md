@@ -221,6 +221,10 @@ and so we gonna put that in a variable <br>
 now we can see we have selected this elemnt and put inside the variable named title <br>
 
 
+so what we can actuyally do is manipulate the styling of this elements <br>
+
+and change it around using css properties <br>
+
 
 
 
