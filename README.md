@@ -66,6 +66,8 @@ so my links and my headers are child nodes to h1 <br>
 and paragraph element <br>
 
 
+now we can see by paragraph tag we have class attributes <br>
+
 
 
 
