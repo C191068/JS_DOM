@@ -115,7 +115,13 @@ if we hover over this it is highlighted in the browser <br>
 
 here we have selected that element and now we can do is select that <br>
 variable we just created for the element and we can add styles to the element <br>
-manipulate it attributes 
+manipulate it attributes <br>
+
+wwe have getelementbyclassname method <br>
+this method returns all elements in the document with that <br>
+specified class name <br>
+
+
 
 
 
