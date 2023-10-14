@@ -276,6 +276,8 @@ if we try to apply inline css to list <br>
 we get the above error <br>
 
 
+if we want to apply style to list items we need to loop through all list items first <br>
+
 
 
 
