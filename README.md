@@ -254,6 +254,8 @@ this type of styling is called inline styling <br>
 
 this is probably the direct method <br>
 
+now if we look at the console it is actually included style attribute <br>
+
 
 
 
