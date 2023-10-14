@@ -175,6 +175,9 @@ for that we get the above output <br>
 
 
 
+if we have more than one div and if we want to select them all we <br>
+use queyselectorall <br>
+
 
 
 
