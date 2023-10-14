@@ -199,13 +199,26 @@ now we will add styling to the elements <br>
 
 we can access css properties in javasxcript <br>
 
+
+
+
+
+![d11](https://github.com/C191068/JS_DOM/assets/89090776/b43c6ea7-e305-4c34-be36-687dc398f67a)
+
+
 so first we will select main heading <br>
 
 which is the title of the container <br>
 
+
 and so we gonna put that in a variable <br>
 
 
+
+
+![d12](https://github.com/C191068/JS_DOM/assets/89090776/04266158-7abc-438b-b8b2-a55b7c8baf74)
+
+now we can see we have selected this elemnt and put inside the variable named title <br>
 
 
 
