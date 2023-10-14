@@ -71,6 +71,8 @@ now we can see by paragraph tag we have class attributes <br>
 now html attributes such as ids and classes in this case <br>
 styles etc are also considers node in the dom hierarchy <br>
 
+but they actually don't participate in parent child sibling relationship <br>
+
 
 
 
