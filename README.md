@@ -45,6 +45,8 @@ now this document node has one child node which is HTML <br>
 
 nad html is the parent to head and body element <br>
 
+now head and body elemts what we called is sibling <br>
+
 
 
 
