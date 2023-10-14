@@ -33,7 +33,9 @@ and this window object has access to information such as toolbars <br>
 
 height and width of the window <br>
 
-most of the node 
+most of the node in the above diagram have praent child relationship <br>
+
+
 
 
 
