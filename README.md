@@ -131,6 +131,8 @@ thus we can get the above output <br>
 now this method returns an array of object of all the child elements <br>
 
 
+which have all the given class names <br>
+
 
 
 
