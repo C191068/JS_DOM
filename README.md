@@ -197,6 +197,8 @@ here we get node list <br>
 
 now we will add styling to the elements <br>
 
+we can access css properties in javasxcript <br>
+
 
 
 
