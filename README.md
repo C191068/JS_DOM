@@ -227,6 +227,18 @@ and change it around using css properties <br>
 
 
 
+so to access css properties in javascript we just first grab the variable <br>
+
+we want to apply styling to <br>
+
+to which case is the title or main heading and simply type in the style property <br>
+
+and after this style property we just use any css property <br>
+
+you want to apply to this element <br>
+
+and change the color of text <br>
+
 
 
 
