@@ -143,6 +143,8 @@ here getelementbytagname is similiar to getelementbyclassname <br>
 it accepts a tag and return all element of that specified tag <br>
 
 
+it returns an array of object for all child element with the given tag name <br>
+
 
 
 
