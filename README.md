@@ -309,7 +309,13 @@ now we gonna modify text in elements <br>
 
 we have created span in the above <br>
 
+
+![d5](https://github.com/C191068/JS_DOM/assets/89090776/d59d9d95-0e49-466e-b65c-e7748145d542)
+
+
 now create another varaible to grab that element <br>
+
+
 
 
 
