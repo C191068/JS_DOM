@@ -291,6 +291,11 @@ output
 
 another cool thing about DOM manipulation is that we can create elemnts from js file here <br>
 
+![d1](https://github.com/C191068/JS_DOM/assets/89090776/00e9be1c-a201-4f2d-8c09-c36279b5be5b)
+
+by the above line of code we create element <br>
+
+
 
 
 
