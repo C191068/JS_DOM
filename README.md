@@ -320,6 +320,8 @@ now create another varaible to grab that element <br>
 
 if we clearly look at tyhe console we can see the diffrences <br>
 
+it is better to use innerText <br>
+
 
 
 
