@@ -299,6 +299,11 @@ now this is not actually do anything at this moment <br>
 
 we can add element inside our document using append method  <br>
 
+![d3](https://github.com/C191068/JS_DOM/assets/89090776/166be2ae-6cda-43cd-9461-69b2d39b5feb)
+
+we can see a new list item is created <br>
+
+
 
 
 
