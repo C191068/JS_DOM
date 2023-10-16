@@ -303,6 +303,8 @@ we can add element inside our document using append method  <br>
 
 we can see a new list item is created <br>
 
+now we gonna modify text in elements <br>
+
 
 
 
