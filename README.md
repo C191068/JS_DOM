@@ -295,6 +295,8 @@ another cool thing about DOM manipulation is that we can create elemnts from js 
 
 by the above line of code we create element <br>
 
+now this is not actually do anything at this moment <br>
+
 
 
 
