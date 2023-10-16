@@ -305,6 +305,11 @@ we can see a new list item is created <br>
 
 now we gonna modify text in elements <br>
 
+![d4](https://github.com/C191068/JS_DOM/assets/89090776/6665f157-42ee-428d-b5bb-dca03475e20c)
+
+we have created span in the above <br>
+
+now create another varaible to grab that element <br>
 
 
 
