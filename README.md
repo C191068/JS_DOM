@@ -322,6 +322,11 @@ if we clearly look at tyhe console we can see the diffrences <br>
 
 it is better to use innerText <br>
 
+![d7](https://github.com/C191068/JS_DOM/assets/89090776/0d7c0080-49ab-49f4-83a4-3a28655a29e7)
+
+so we have created a new list item <br>
+
+
 
 
 
