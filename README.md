@@ -316,6 +316,9 @@ we have created span in the above <br>
 now create another varaible to grab that element <br>
 
 
+![d6](https://github.com/C191068/JS_DOM/assets/89090776/9bed02dd-d2ee-46eb-85a9-7de8c2f5cee1)
+
+if we clearly look at tyhe console we can see the diffrences <br>
 
 
 
