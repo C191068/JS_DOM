@@ -287,6 +287,13 @@ like above
 ![image](https://github.com/C191068/JS_DOM/assets/89090776/0befd26a-ded0-48c3-be4d-11a14082a0a5)
 
 output
+<br>
+
+another cool thing about DOM manipulation is that we can create elemnts from js file here <br>
+
+
+
+
 
 
 
