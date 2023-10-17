@@ -406,6 +406,9 @@ underneath head node has the child node which is title element <br>
 
 other relations are similiar <br>
 
+html attributes such as id ,class and styles are also considered <br>
+nodes in dom tree <br>
+
 
 
 
