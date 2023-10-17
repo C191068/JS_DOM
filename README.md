@@ -388,6 +388,8 @@ thus we have remove the elemnt <br>
 thus we have remove the element <br>
 
 
+DOM object is itself a property of window object <br>
+
 
 
 
