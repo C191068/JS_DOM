@@ -341,6 +341,8 @@ the difference of using and and using of the code above which is used to set att
 to remove styling we use the above code <br>
 
 
+to access attributes in javascript <br>
+
 
 
 
