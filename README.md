@@ -425,6 +425,11 @@ so now here we will find parent of the ul and the grandparent <br>
 we can also see hovers over it <br>
 
 
+![d18](https://github.com/C191068/JS_DOM/assets/89090776/e1d93604-ce35-4585-8aa6-c9650fe098a4)
+
+
+we find the parent node in the above way <br>
+
 
 
 
