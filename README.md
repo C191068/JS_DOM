@@ -449,6 +449,8 @@ here parent element is returning null <br>
 because job of parent element is to return html element <br>
 
 
+parent node is mostly used <br>
+
 
 
 
