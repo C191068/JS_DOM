@@ -327,7 +327,14 @@ it is better to use innerText <br>
 so we have created a new list item <br>
 
 
+![d8](https://github.com/C191068/JS_DOM/assets/89090776/18d4dbfb-16c4-4aba-bedd-e16c091991c9)
 
+![d9](https://github.com/C191068/JS_DOM/assets/89090776/9b2a7c76-3e5c-48ff-a220-9cec614429d6)
+
+the difference of using and and using of the code above which is used to set attribute <br>
+ we have given the below list item below same id as our main heading <br>
+
+ 
 
 
 
