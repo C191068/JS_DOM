@@ -436,6 +436,8 @@ we find the parent node in the above way <br>
 to find the grandparent we do the above <br>
 
 
+elemts are atype of node <br>
+
 
 
 
