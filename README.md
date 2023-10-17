@@ -557,55 +557,66 @@ console.log(listItems);
   <style>
     body {
       font-family: Arial, sans-serif;
-      background-color: #f0f0f0;
+      background-color: #242222;
       margin: 0;
       padding: 0;
     }
-  
+    #home{
+      float: inherit;
+      margin: 0px 0px;
+      padding: 0px 0px;
+      
+    }
     .container {
-      max-width: 800px;
+      max-width: auto;
       margin: 0 auto;
       padding: 20px;
       background-color: #fff;
-      border-radius: 5px;
+      border-radius: 30px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
     }
-  
+
     #main-heading {
-      color: #333;
+      color: #5c4646;
       text-align: center;
+      margin: 0px 0px 0px 0px;
+      padding: 0px 0px 0px 0px;
+
     }
-  
+
     .list-items {
       list-style: none;
-      padding: 10px;
+      padding: 6px 0px;
       border: 1px solid #ccc;
-      margin: 10px 0;
+      margin: 2px 100px;
       background-color: #f9f9f9;
     }
-  
+
     .list-items span {
       color: #999;
       font-size: 14px;
       margin-left: 10px;
     }
-  
+
     ul {
       padding: 0;
+      text-align: left;
     }
+
   </style>
-  
 
 </head>
 
 <body>
   <div class="container">
-    <h1 id="main-heading">My favorite movies</h1>
-    <ul>
-      <li class="list-items">The Message<span>(1976)</span></li>
-      <li class="list-items">Lion of the Desert</li>
-      <li class="list-items">The Kingdom of Heaven</li>
-    </ul>
+    <section id="home">
+      <h1 id="main-heading">My favorite movies</h1>
+      <ul>
+        <li class="list-items">The Message<span>(1976)</span></li>
+        <li class="list-items">Lion of the Desert</li>
+        <li class="list-items">The Kingdom of Heaven</li>
+      </ul>
+    </section>
   </div>
   <script src="kapp.js"></script>
 </body>
@@ -615,6 +626,7 @@ console.log(listItems);
 ```
 
 <br><br>
+
 
 ```
 
@@ -639,9 +651,23 @@ ul.append(li);
 
 li.innerText = "The Final legacy";
 
-//Modify Attributes & Classes
+//Modify Attributes 
 
-li.setAttribute("id", "main-heading");
+//li.setAttribute("id", "main-heading");
+//li.removeAttribute("id");
+
+//const title = document.querySelector('#main-heading');
+
+//console.log(title.getAttribute('id'));
+
+//Modify Classes
+
+li.classList.add('list-items');
+
+
+console.log(li.classList.contains('list-items'));
+
+li.remove();
 
 ```
 
