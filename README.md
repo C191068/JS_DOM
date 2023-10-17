@@ -409,6 +409,8 @@ other relations are similiar <br>
 html attributes such as id ,class and styles are also considered <br>
 nodes in dom tree <br>
 
+but they don't participate in parent child relationship <br>
+
 
 
 
