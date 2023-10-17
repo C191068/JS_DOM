@@ -384,6 +384,9 @@ now we will see how to remove an element <br>
 
 thus we have remove the elemnt <br>
 
+![d16](https://github.com/C191068/JS_DOM/assets/89090776/9d960db5-856b-49cf-9218-0232922cdd3b)
+thus we have remove the element <br>
+
 
 
 
