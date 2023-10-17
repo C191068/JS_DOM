@@ -377,6 +377,8 @@ so it return false <br>
 now it returns true <br>
 
 
+now we will see how to remove an element <br>
+
 
 
 
