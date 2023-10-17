@@ -360,6 +360,12 @@ now we will see how to add class to our list items <br>
 
 we can see our last list item has exact the same styling like other list item <br>
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/ee003881-cdca-4a8e-b63c-2e36876ca83f)
+
+if we remove it we can see it has removed <br>
+
+
+
 
 
 
