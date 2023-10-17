@@ -394,6 +394,8 @@ which is a global top level object representing the tab in the browser <br>
 
 the window object has access too much information <br>
 
+the height and the width of the window <br>
+
 
 
 
