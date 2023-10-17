@@ -343,6 +343,7 @@ to remove styling we use the above code <br>
 
 to access attributes in javascript <br>
 
+to get the attribute of main haeding here <br>
 
 
 
