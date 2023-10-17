@@ -390,6 +390,10 @@ thus we have remove the element <br>
 
 DOM object is itself a property of window object <br>
 
+which is a global top level object representing the tab in the browser <br>
+
+
+
 
 
 
