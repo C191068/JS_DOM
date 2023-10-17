@@ -453,7 +453,108 @@ console.log(listItems);
 
 
 ```
+<br><br>
 
+```
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movies</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #f0f0f0;
+      margin: 0;
+      padding: 0;
+    }
+  
+    .container {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 5px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+  
+    #main-heading {
+      color: #333;
+      text-align: center;
+    }
+  
+    .list-items {
+      list-style: none;
+      padding: 10px;
+      border: 1px solid #ccc;
+      margin: 10px 0;
+      background-color: #f9f9f9;
+    }
+  
+    .list-items span {
+      color: #999;
+      font-size: 14px;
+      margin-left: 10px;
+    }
+  
+    ul {
+      padding: 0;
+    }
+  </style>
+  
+
+</head>
+
+<body>
+  <div class="container">
+    <h1 id="main-heading">My favorite movies</h1>
+    <ul>
+      <li class="list-items">The Message<span>(1976)</span></li>
+      <li class="list-items">Lion of the Desert</li>
+      <li class="list-items">The Kingdom of Heaven</li>
+    </ul>
+  </div>
+  <script src="kapp.js"></script>
+</body>
+
+</html>
+
+```
+
+<br><br>
+
+```
+
+//DOM manipulation
+
+//const title = document.querySelector("#main-heading");
+
+//title.style.color = "red";
+
+//const listItems = document.querySelectorAll(".list-items");
+
+//for (i = 0; i < listItems.length; i++) {
+//listItems[i].style.fontSize = "2rem";
+//}
+
+//Create elements
+
+const ul = document.querySelector("ul");
+const li = document.createElement("li");
+
+ul.append(li);
+
+li.innerText = "The Final legacy";
+
+//Modify Attributes & Classes
+
+li.setAttribute("id", "main-heading");
+
+```
 
 
 
