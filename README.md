@@ -365,6 +365,10 @@ we can see our last list item has exact the same styling like other list item <b
 if we remove it we can see it has removed <br>
 
 
+now we will find whether an element has specific class <br>
+
+
+
 
 
 
