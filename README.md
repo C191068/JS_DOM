@@ -336,7 +336,10 @@ the difference of using and and using of the code above which is used to set att
 
  it got the same styling <br>
 
- 
+ ![d10](https://github.com/C191068/JS_DOM/assets/89090776/c642c86b-31dd-4d6f-a502-7d5cad5f0b5b)
+
+to remove styling we use the above code <br>
+
 
 
 
