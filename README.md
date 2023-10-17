@@ -353,6 +353,8 @@ to access attributes in javascript we do the above <br>
 to get the attribute of main haeding here we do the above  <br>
 
 
+now we will see how to add class to our list items <br>
+
 
 
 
