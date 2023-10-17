@@ -373,6 +373,9 @@ now we will find whether an element has specific class <br>
 so it return false <br>
 
 
+![d14](https://github.com/C191068/JS_DOM/assets/89090776/8dadf1a5-7aec-4ce4-86fc-876b86d5cc77)
+now it returns true <br>
+
 
 
 
