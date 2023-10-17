@@ -440,6 +440,11 @@ elemts are atype of node <br>
 
 
 
+![d20](https://github.com/C191068/JS_DOM/assets/89090776/95615d5a-56a5-4686-ba56-50788e04dd37)
+
+the above we can see the difference between nodes and elements <br>
+
+
 
 
 
