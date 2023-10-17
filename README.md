@@ -413,7 +413,16 @@ but they don't participate in parent child relationship <br>
 
 they accessed as properties of element node that contains them <br>
 
+
+![d17](https://github.com/C191068/JS_DOM/assets/89090776/84d0b50f-f277-4ec2-91f0-4be559ca8aba)
+
+
 so now here we will find parent of the ul and the grandparent <br>
+
+
+![image](https://github.com/C191068/JS_DOM/assets/89090776/df13386a-afbb-4f31-b695-7099049f777e)
+
+we can also see hovers over it <br>
 
 
 
