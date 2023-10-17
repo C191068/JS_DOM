@@ -411,6 +411,8 @@ nodes in dom tree <br>
 
 but they don't participate in parent child relationship <br>
 
+they accessed as properties of element node that contains them <br>
+
 
 
 
