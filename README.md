@@ -399,7 +399,14 @@ the height and the width of the window <br>
 ![image](https://github.com/C191068/JS_DOM/assets/89090776/41547dfc-8b74-43df-a048-33742a9c630e)
 here document node is the topmost node and root of dom tree <br>
 
-it has one child node elemnt <br>
+it has one child node elemnt i.e html <br>
+
+
+underneath head node has the child node which is title element <br>
+
+other relations are similiar <br>
+
+
 
 
 
