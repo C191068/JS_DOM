@@ -355,7 +355,10 @@ to get the attribute of main haeding here we do the above  <br>
 
 now we will see how to add class to our list items <br>
 
+![d12](https://github.com/C191068/JS_DOM/assets/89090776/b62ef3cc-d72f-4d10-b882-e561588df64f)
 
+
+we can see our last list item has exact the same styling like other list item <br>
 
 
 
