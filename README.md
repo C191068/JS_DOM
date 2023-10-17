@@ -413,6 +413,8 @@ but they don't participate in parent child relationship <br>
 
 they accessed as properties of element node that contains them <br>
 
+so now here we will find parent of the ul and the grandparent <br>
+
 
 
 
