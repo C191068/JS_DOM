@@ -444,6 +444,10 @@ elemts are atype of node <br>
 
 the above we can see the difference between nodes and elements <br>
 
+here parent element is returning null <br>
+
+because job of parent element is to return html element <br>
+
 
 
 
