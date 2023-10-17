@@ -368,6 +368,14 @@ if we remove it we can see it has removed <br>
 now we will find whether an element has specific class <br>
 
 
+![d13](https://github.com/C191068/JS_DOM/assets/89090776/a1cb7854-7dc6-4c96-ba4e-35723b7de920)
+
+so it return false <br>
+
+
+
+
+
 
 
 
