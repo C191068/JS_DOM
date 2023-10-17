@@ -341,9 +341,16 @@ the difference of using and and using of the code above which is used to set att
 to remove styling we use the above code <br>
 
 
-to access attributes in javascript <br>
 
-to get the attribute of main haeding here <br>
+
+
+![d11](https://github.com/C191068/JS_DOM/assets/89090776/2eef885d-6fb6-441f-ad67-1ddc93ea686d)
+
+
+
+to access attributes in javascript we do the above <br>
+
+to get the attribute of main haeding here we do the above  <br>
 
 
 
