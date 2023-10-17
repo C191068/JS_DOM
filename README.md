@@ -380,6 +380,11 @@ now it returns true <br>
 now we will see how to remove an element <br>
 
 
+![d15](https://github.com/C191068/JS_DOM/assets/89090776/9a722036-5740-47a3-837d-13de8066617d)
+
+thus we have remove the elemnt <br>
+
+
 
 
 
