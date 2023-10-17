@@ -334,6 +334,8 @@ so we have created a new list item <br>
 the difference of using and and using of the code above which is used to set attribute <br>
  we have given the below list item below same id as our main heading <br>
 
+ it got the same styling <br>
+
  
 
 
