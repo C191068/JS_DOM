@@ -431,6 +431,9 @@ we can also see hovers over it <br>
 we find the parent node in the above way <br>
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/824c6fad-8b71-4470-b0ba-f8a62622262b)
+
+to find the grandparent we do the above <br>
 
 
 
