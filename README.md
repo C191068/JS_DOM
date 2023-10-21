@@ -508,6 +508,10 @@ using this property  <br>
 now by the above code the first list elemnt is colored green background color  <br>
 
 
+ now unlike the aprent element here we also have in  children elemnt which can <br>
+
+ select only element nodes <br>
+
  
 
 
