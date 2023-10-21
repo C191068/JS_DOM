@@ -550,6 +550,10 @@ at console we can see it is the previous elemnt sibling node <br>
 next element sibling we get null <br>
 
 
+now we gonna talk about event listeners <br>
+
+Event listeners are most frequently used javascript structures <br>
+
 
 
 
