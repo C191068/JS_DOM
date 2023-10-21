@@ -573,6 +573,9 @@ this event is global on event attribute <br>
 this way of creating an event to an element works preety <br>
 much like any attribute we inserted directly in the html element i.e presesnt <br>
  on the page <br>
+ and then apply one line scrip to that particular event <br>
+
+ 
 
  
 
