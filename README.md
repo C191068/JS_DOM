@@ -494,7 +494,15 @@ this is reeturnining us the text nodex <br>
 
 because first index is a text node and last index is also a text node <br>
 
+now when we are using first child and last child here which is selecting <br>
+the first nde and last node we need to be very mindful if we are styling eklement <br>
 
+using this property  <br>
+
+![d24](https://github.com/C191068/JS_DOM/assets/89090776/32a88285-19ef-4b86-a308-8fe0510d0fd5)
+ here we get an error here because first child here is actuallly a text node <br>
+
+ 
 
 
 
