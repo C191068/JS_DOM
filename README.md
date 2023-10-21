@@ -586,10 +586,12 @@ this is the direct include of an vent ot html <br>
 now we will see about javascript add event listener method <br>
 
 
+![d33](https://github.com/C191068/JS_DOM/assets/89090776/4103dad0-1454-4a10-8ad3-2a1607065eac)
 
  
+the baove is the exaple of it <br>
 
- 
+
 
 
 
