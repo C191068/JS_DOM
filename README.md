@@ -564,6 +564,10 @@ such as when users preses a key when elements load or when user clicks <br>
 touch start event , key down event , mouse over event  and of course <br>
 click events <br>
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/4c03f89c-be33-4d20-a327-12590511550b)
+
+we can include events inside of our above index.html and directly one of these elements <br>
+
 
  
 
