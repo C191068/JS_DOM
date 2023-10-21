@@ -482,6 +482,9 @@ again because identation are counted as text nodes <br>
 
 so again distinction betwwen nodes and element nodews becomes more evident <br>
 
+now as well child nodes property we also have first and last child <br>
+
+
 
 
 
