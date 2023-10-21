@@ -1080,15 +1080,15 @@ console.log(ul.nextElementSibling);
   <div class="container">
     <div class="box box-1">
       <h1>The Message</h1>
-      <button>Click</button>
+      <button onclick="alert('Enjoy the movie')">Click</button>
     </div>
     <div class="box box-2">
       <h1>The Final Legacy</h1>
-      <button>Click</button>
+      <button class ="btn-2">Click</button>
     </div>
     <div class="box box-3">
       <h1>The Kingdom of Heaven</h1>
-      <button>Click</button>
+      <button class="btn-3">Click</button>
     </div>
   </div>
   <script src="kapp.js"></script>
