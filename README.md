@@ -451,6 +451,12 @@ because job of parent element is to return html element <br>
 
 parent node is mostly used <br>
 
+now we will take a look how we can navigate downwards in DOM tree <br>
+
+i.e how to traverse child node <br>
+
+
+
 
 
 
