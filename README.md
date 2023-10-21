@@ -485,6 +485,8 @@ so again distinction betwwen nodes and element nodews becomes more evident <br>
 now as well child nodes property we also have first and last child <br>
 
 
+as we probably guess this selects first and last child of our list <br>
+
 
 
 
