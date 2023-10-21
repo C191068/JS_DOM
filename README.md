@@ -594,6 +594,12 @@ the baove is the exaple of it <br>
 now we will lokk at mouse over event <br>
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/009ba956-a96e-437c-b046-6ea485b71e50)
+
+for the above we get the output below <br>
+
+![image](https://github.com/C191068/JS_DOM/assets/89090776/3afa8573-8ec8-4fc5-a209-65e27999d1b3)
+
 
 
 
