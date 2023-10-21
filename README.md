@@ -478,6 +478,8 @@ here we remove one of the identataion brought the last list tag with the second 
 
 now we can see the node list is showing 6 <br>
 
+again because identation are counted as text nodes <br>
+
 
 
 
