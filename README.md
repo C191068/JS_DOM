@@ -583,6 +583,8 @@ much like any attribute we inserted directly in the html element i.e presesnt <b
  
 this is the direct include of an vent ot html <br>
 
+now we will see about javascript add event listener method <br>
+
 
 
  
