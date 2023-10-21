@@ -543,6 +543,11 @@ in the above we get text node before ul and after ul <br>
 now we want to find previous and next  element nodes  <br>
 
 
+![d31](https://github.com/C191068/JS_DOM/assets/89090776/5b2ab34f-3c6d-4c36-9fd7-2f0f5a0789f1)
+
+at console we can see it is the previous elemnt sibling node <br>
+
+next element sibling we get null <br>
 
 
 
