@@ -540,6 +540,11 @@ they are here as element node <br>
 
 in the above we get text node before ul and after ul <br>
 
+now we want to find previous and next  element nodes  <br>
+
+
+
+
 
 
 
