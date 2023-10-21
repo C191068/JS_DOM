@@ -882,6 +882,91 @@ console.log(ul.nextElementSibling);
 ```
 
 
+<br>
+
+```
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movies</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #242222;
+      margin: 0;
+      padding: 0;
+    }
+    #home{
+      float: inherit;
+      margin: 0px 0px;
+      padding: 0px 0px;
+      
+    }
+    .container {
+      max-width: auto;
+      margin: 0 auto;
+      padding: 20px;
+      background-color: #fff;
+      border-radius: 30px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    }
+
+    #main-heading {
+      color: #5c4646;
+      text-align: center;
+      margin: 0px 0px 0px 0px;
+      padding: 0px 0px 0px 0px;
+
+    }
+
+    .list-items {
+      list-style: none;
+      padding: 6px 0px;
+      border: 1px solid #ccc;
+      margin: 2px 100px;
+      background-color: #f9f9f9;
+    }
+
+    .list-items span {
+      color: #999;
+      font-size: 14px;
+      margin-left: 10px;
+    }
+
+    ul {
+      padding: 0;
+      text-align: left;
+    }
+
+  </style>
+
+</head>
+
+<body>
+  <div class="container">
+   
+      <h1 id="main-heading">My favorite movies</h1>
+      <!--Gap between-->
+      <ul>
+        <li class="list-items">The Message<span>(1976)</span></li>
+        <li class="list-items">Lion of the Desert</li>
+        <li class="list-items">The Kingdom of Heaven</li>
+      </ul>
+ 
+  </div>
+  <script src="kapp.js"></script>
+</body>
+
+</html>
+
+```
+
 
 
 
