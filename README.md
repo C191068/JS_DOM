@@ -568,6 +568,9 @@ click events <br>
 
 we can include events inside of our above index.html and directly one of these elements <br>
 
+this event is global on event attribute <br>
+
+
 
  
 
