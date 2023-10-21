@@ -516,6 +516,9 @@ now by the above code the first list elemnt is colored green background color  <
 
 here it returns only html collection instead of node list <br>
 
+![d27](https://github.com/C191068/JS_DOM/assets/89090776/255b3042-b420-485c-86c0-c8f0d69f06e7)
+
+here weget the properties of child node <br>
 
 
 
