@@ -523,6 +523,9 @@ here weget the properties of child node <br>
 
 at last we gonna take a look at sibling node traverssal <br>
 
+siblings nodes are nodes on the same tree  level <br>
+
+
 
 
 
