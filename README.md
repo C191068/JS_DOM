@@ -573,9 +573,15 @@ this event is global on event attribute <br>
 this way of creating an event to an element works preety <br>
 much like any attribute we inserted directly in the html element i.e presesnt <br>
  on the page <br>
- and then apply one line scrip to that particular event <br>
+ and then apply one line script to that particular event <br>
+ 
+
+ ![d32](https://github.com/C191068/JS_DOM/assets/89090776/2a818f1e-703b-4278-8c1b-142c483ca989)
+
+ we get the above output for the above code <br>
 
  
+
 
  
 
