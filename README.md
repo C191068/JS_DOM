@@ -536,6 +536,11 @@ it is important to note that sibling do not have to be same typ eof node <br>
 
 they are here as element node <br>
 
+![d28](https://github.com/C191068/JS_DOM/assets/89090776/85b9e705-c362-49d8-8544-ad276e87b2e8)
+
+in the above we get as text as output <br>
+
+
 
 
 
