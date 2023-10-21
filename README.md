@@ -561,6 +561,9 @@ such as when users preses a key when elements load or when user clicks <br>
 
  the most common event is load event <br>
 
+touch start event , key down event , mouse over event  and of course <br>
+click events <br>
+
 
  
 
