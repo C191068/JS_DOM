@@ -526,6 +526,11 @@ at last we gonna take a look at sibling node traverssal <br>
 siblings nodes are nodes on the same tree  level <br>
 
 
+![image](https://github.com/C191068/JS_DOM/assets/89090776/9d724190-bd14-4e3a-87ca-d2f08f18c6c0)
+
+in the above html of ours <br>
+
+the <h1> and <ul> are sibling to each other <br>
 
 
 
