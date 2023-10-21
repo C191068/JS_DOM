@@ -554,7 +554,7 @@ now we gonna talk about event listeners <br>
 
 Event listeners are most frequently used javascript structures <br>
 they allow us to add interactive functionality to html elements <br>
-by listening to different events <br>
+by listening to different events that take place on page  <br>
 
 
 
