@@ -591,6 +591,8 @@ now we will see about javascript add event listener method <br>
  
 the baove is the exaple of it <br>
 
+now we will lokk at mouse over event <br>
+
 
 
 
