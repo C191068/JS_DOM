@@ -461,6 +461,8 @@ i.e how to traverse child node <br>
 we can see in the console it has given us a node list <br>
 we can get alist of child node inside the ul <br>
 
+here distinction between between nodes na delements become more evident <br>
+
 
 
 
