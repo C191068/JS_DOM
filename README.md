@@ -559,6 +559,9 @@ by listening to different events that take place on page  <br>
 such as when users preses a key when elements load or when user clicks <br>
  a button <br>
 
+ the most common event is load event <br>
+
+
  
 
 
