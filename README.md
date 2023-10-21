@@ -456,6 +456,10 @@ now we will take a look how we can navigate downwards in DOM tree <br>
 i.e how to traverse child node <br>
 
 
+![d21](https://github.com/C191068/JS_DOM/assets/89090776/9f64989a-8777-49e5-b4a1-5e29c5a2c054)
+
+we can see in the console it has given us a node list <br>
+we can get alist of child node inside the ul <br>
 
 
 
