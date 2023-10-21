@@ -534,6 +534,10 @@ the <h1> and <ul> are sibling to each other because they are on the same level  
 
 it is important to note that sibling do not have to be same typ eof node <br>
 
+they are here as element node <br>
+
+
+
 
 
 
