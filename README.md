@@ -501,6 +501,7 @@ using this property  <br>
 
 ![d24](https://github.com/C191068/JS_DOM/assets/89090776/32a88285-19ef-4b86-a308-8fe0510d0fd5)
  here we get an error here because first child here is actuallly a text node <br>
+ it is not an elemnt 
 
  
 
