@@ -521,6 +521,9 @@ here it returns only html collection instead of node list <br>
 here weget the properties of child node <br>
 
 
+at last we gonna take a look at sibling node traverssal <br>
+
+
 
 
 
