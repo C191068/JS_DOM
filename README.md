@@ -512,7 +512,10 @@ now by the above code the first list elemnt is colored green background color  <
 
  select only element nodes <br>
 
- 
+ ![d26](https://github.com/C191068/JS_DOM/assets/89090776/576bd645-9da1-4a30-89c6-8e9911468581)
+
+here it returns only html collection instead of node list <br>
+
 
 
 
