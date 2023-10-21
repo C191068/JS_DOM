@@ -967,6 +967,111 @@ console.log(ul.nextElementSibling);
 
 ```
 
+<br>
+
+```
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Movies</title>
+
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f0f0f0;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+    }
+
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+    }
+
+    .box {
+      background-color: #f4f4f4;
+      border: 2px solid #ccc;
+      padding: 20px;
+      margin: 10px;
+      border-radius: 10px;
+      box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1);
+      text-align: center;
+      transition: transform 0.2s, box-shadow 0.2s;
+    }
+
+    .box-1 {
+      background-color: #ffcc66;
+      border-color: #ffaa00;
+    }
+
+    .box-2 {
+      background-color: #66ccff;
+      border-color: #3399ff;
+    }
+
+    .box-3 {
+      background-color: #66ffcc;
+      border-color: #33ff99;
+    }
+
+    h1 {
+      font-size: 28px;
+      color: #333;
+      margin-bottom: 15px;
+    }
+
+    button {
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      padding: 10px 20px;
+      font-size: 16px;
+      cursor: pointer;
+      border-radius: 5px;
+      transition: background-color 0.3s;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .box:hover {
+      transform: scale(1.05);
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+  </style>
+</head>
+
+<body>
+  <h1 id="main-heading">Event Listeners</h1>
+  <div class="container">
+    <div class="box box-1">
+      <h1>The Message</h1>
+      <button>Click</button>
+    </div>
+    <div class="box box-2">
+      <h1>The Final Legacy</h1>
+      <button>Click</button>
+    </div>
+    <div class="box box-3">
+      <h1>The Kingdom of Heaven</h1>
+      <button>Click</button>
+    </div>
+  </div>
+  <script src="kapp.js"></script>
+</body>
+</html>
+
+```
+
 
 
 
