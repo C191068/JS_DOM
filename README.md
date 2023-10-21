@@ -505,7 +505,7 @@ using this property  <br>
 
  ![d25](https://github.com/C191068/JS_DOM/assets/89090776/625f84e6-5a38-4b7a-a154-bfaed5c6875a)
 
-now by the above code the first list elemnt is colored green <br>
+now by the above code the first list elemnt is colored green background color  <br>
 
 
  
