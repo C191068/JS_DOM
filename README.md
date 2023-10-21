@@ -488,6 +488,11 @@ now as well child nodes property we also have first and last child <br>
 as we probably guess this selects first and last child of our list <br>
 
 
+![d23](https://github.com/C191068/JS_DOM/assets/89090776/923e3d88-7bb7-4920-8fba-072519969e33)
+
+this is reeturnining us the text nodex <br>
+
+because first index is a text node and last index is also a text node <br>
 
 
 
